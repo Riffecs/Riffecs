@@ -95,7 +95,7 @@
 <a href="https://instagram.com/riffecs" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/riffecs" target="_blank">
+<a href="https://stackoverflow.com/users/19094271/riffecs" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCwjHe1ZlY2qxYCgZUwWc8hA" target="_blank">
