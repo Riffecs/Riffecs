@@ -111,13 +111,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=riffecs&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/riffecs" target="_blank" style="display: inline-block;">
+<a href="https://paypal.me/riffecs" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
