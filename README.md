@@ -4,8 +4,8 @@
   
 
 - 🔭 I’m currently working on RION. A package manager for the X-FAB
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently learning Neural Networks and Graphs  
+- ❓ Ask me about anything related technologies  
 - ⚡ Fun fact: I use tabs over spaces  
   
 
