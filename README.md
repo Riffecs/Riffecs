@@ -3,15 +3,9 @@
 ### <div align="center">I'm a developer and chess enthusiast</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
+- 🔭 I’m currently working on RION. A package manager for the X-FAB
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
@@ -112,21 +106,6 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
 
 <br/>  
 
