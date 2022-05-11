@@ -18,7 +18,7 @@ Python, Java
 
 ### Currently Playing during coding ♬
 
-[<img align="left" width="110" src="./img/rammstein.png">](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo?si=9GcKiNT-RDCe6TuyEfguag)
-[<img align="left" width="110" src="./img/kaizer.png">](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY?si=iS23-Y9JRNa3HigaySkeqg)
-[<img align="left" width="110" src="./img/alligatoah.png">](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v?si=NIomXkaMQe6B7Hire6YlAg)
+[<img align="left" width="110" src="./img/rammstein.png">](https://music.youtube.com/playlist?list=OLAK5uy_nl5CYbyn0jhWQiRJ17yvqRDN96eTx7sWQ)
+[<img align="left" width="110" src="./img/kaizer.png">](https://music.youtube.com/playlist?list=OLAK5uy_n-TbSRrYTUEly3oU81m_z7AiZegeNbiz0)
+[<img align="left" width="110" src="./img/alligatoah.png">](https://music.youtube.com/playlist?list=OLAK5uy_nKA6OFfqFfx7J-3gvgNDCYxGug3gjnY9Q)
 <br><br><br><br><br><br>
